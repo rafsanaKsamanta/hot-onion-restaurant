@@ -1,0 +1,26 @@
+.banner{
+    background-image: url(../../Images/bannerbackground.png);
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center center;
+
+    height: 80vh;
+    box-shadow: gray;
+
+}
+
+.inputSearch {
+    width: 45%;
+    margin-right: 5px;
+    height: 40px;
+    border-radius:10px; 
+    border: none;
+}
+
+.inputSearch:focus {
+   outline: none;
+}
+
+
+
+

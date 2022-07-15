@@ -1,0 +1,16 @@
+    hr { 
+        display: block;
+        height: 1px;
+        border: 0;
+        border-top: 1px solid gray ;
+        margin: 1em 0; 
+        padding: 0; }
+
+.checkoutDetails{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.placeOrder:hover{
+    text-decoration:none;
+}
+

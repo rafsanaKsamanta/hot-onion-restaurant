@@ -1,0 +1,17 @@
+.cardFood{
+    cursor:pointer;
+    
+    border: 1px solid burlywood;
+}
+
+.cardFood:hover{
+    -webkit-box-shadow: 2px 10px 17px -1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 2px 10px 17px -1px rgba(0,0,0,0.75);
+    box-shadow: 2px 10px 17px -1px rgba(0,0,0,0.75);
+    background-color: burlywood;
+   
+}
+
+.foodLink:hover{
+    text-decoration: none;
+}

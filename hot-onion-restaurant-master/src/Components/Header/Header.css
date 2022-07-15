@@ -1,0 +1,40 @@
+.logo{
+    width: 20%;
+    
+    margin-left: 5%;
+}
+
+.loginButton{
+    color: gray;
+    
+    margin-bottom: 10px;
+
+}
+
+.signUp{
+    border-radius: 20px;
+    width: 100px;
+    
+}
+
+.loginButton:hover{
+   color: black;
+}
+
+.buttons{
+   margin-right: 10%;
+
+}
+
+.signUp:hover{
+    background-color:royalblue;
+    border: 1px solid royalblue;
+}
+
+
+
+.navbar{
+    -webkit-box-shadow: 0px 9px 10px -8px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 9px 10px -8px rgba(0,0,0,0.75);
+    box-shadow: 0px 9px 10px -8px rgba(0,0,0,0.75);
+}
