@@ -1,6 +1,6 @@
 # Hot-Onion-Restaurant 
 
-## https://hot-onion-restaurant-suvo176.web.app/
+## https://hot-onion-resturent.firebaseapp.com/
 
 This is a website for food delivery . People can order food from anywhere through this website .Here 3 types of food that people can order.
 
